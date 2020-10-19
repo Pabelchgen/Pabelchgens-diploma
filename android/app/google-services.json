@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1082460409841",
+    "firebase_url": "https://petassist-3cb7e.firebaseio.com",
+    "project_id": "petassist-3cb7e",
+    "storage_bucket": "petassist-3cb7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082460409841:android:b370d9ab7ff3178a303e50",
+        "android_client_info": {
+          "package_name": "mn.petassist.app.pet_assist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082460409841-2mb2a8o73qhneoip5pgntfok6io0ndj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mn.petassist.app.pet_assist",
+            "certificate_hash": "c9cce6bc650ee68f4c3e4986d950ffc98ca042dc"
+          }
+        },
+        {
+          "client_id": "1082460409841-ue6qbl0vdhlkndrq3vsmjo2arurcrm1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAilWxk75wcGv06FT0AuentVZ8TCn4NfBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082460409841-ue6qbl0vdhlkndrq3vsmjo2arurcrm1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
